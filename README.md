@@ -1,7 +1,7 @@
-# Telegram Crypto Wallet Tracker
+# Telegram Crypto Wallet
 
 
-The Telegram Crypto Wallet Tracker is a Python application that allows users to track cryptocurrency wallets for various blockchains and sends notifications on Telegram when a transaction is made.
+The Telegram Crypto Wallet tracker is a Python application that allows users to track cryptocurrency wallets for various blockchains and sends notifications on Telegram when a transaction is made.
 
 The application provides a convenient way for users to add, remove, and list their cryptocurrency wallets. It supports popular blockchains such as WAX, BSC (Binance Smart Chain), and ETH (Ethereum).
 
